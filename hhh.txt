@@ -1,3 +1,7 @@
 this is hhh
 
+<<<<<<< HEAD
 updating the hhh on demo org
+=======
+updayinf the file from Clone folder
+>>>>>>> 26e62a6bf02a9ab3ca882243a0d8b71033c46ef5
